@@ -1,0 +1,106 @@
+body {
+    font-family: Garamond, serif;
+    background-image: url("https://traveler.marriott.com/wp-content/uploads/2019/09/header_2.png");
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    color: black;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: center;
+}
+
+#chatbot {
+    background: rgba(0, 0, 0, 0.3);
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 5px 0 0 0;
+    margin-top: 60px;
+}
+
+#chatbox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 60px;
+}
+
+#userInput {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 60px;
+}
+
+#textInput {
+    width: 87%;
+    border: none;
+    border-bottom: 3px solid #6096BA;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+#buttonInput {
+    padding: 3px;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.userText {
+    color: #E7ECEF;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: right;
+    line-height: 30px;
+}
+
+.userText span {
+    background-color: #A3CEF1;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.botText {
+    color: #E7ECEF;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+}
+
+.botText span {
+    background-color: #8B8C89;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.mainText {
+    margin-left: auto;
+    margin-right: auto;
+    color: #E7ECEF;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+}
+
+.mainText a {
+    color: black;
+}
+
+.mainText span {
+    background-color: #274C77;
+    padding: 10px;
+    border-radius: 2px;
+}
+

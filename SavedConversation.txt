@@ -1,0 +1,4 @@
+Chatbot: I'm in Infotour. Tell me what you need and I'll be happy to answer! To exit write Goodbye.
+User: Hi
+Chatbot:Hi
+Chatbot: Goodbye, see you next time!
